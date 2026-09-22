@@ -4,7 +4,7 @@
 This repository contains optimal Python 3 solutions for the 5 mandatory HackerRank algorithmic challenges[cite: 4].
 
 ## Profile & Verification
-- **HackerRank Profile:** [Insert Your HackerRank Profile Link Here][cite: 4]
+- **HackerRank Profile:** [][cite: 4]
 - **Target Badge:** 3-Star Problem Solving / Python Badge[cite: 4]
 
 ## Complexity Analysis Summary
